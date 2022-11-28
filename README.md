@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/ugurcaneser?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@0xugurcaneser](https://medium.com/@0xugurcaneser)
+- 📝 I regularly write articles on [Medium](https://medium.com/@0xugurcaneser)
 
 - You can reach me using this email: **ugurcaneser@yahoo.com**
 
