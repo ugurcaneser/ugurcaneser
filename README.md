@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently coding **Swift, Dart and Flutter.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ugurcaneser](https://github.com/ugurcaneser)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ugurcaneser?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@0xugurcaneser](https://medium.com/@0xugurcaneser)
 
