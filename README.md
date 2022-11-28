@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uğurcan</h1>
+<h1 align="center">Hi 👋🏻, I'm Uğurcan</h1>
 <h3 align="center">Mobile Developer</h3>
 
 - 🌱 I’m currently coding **Swift, Dart and Flutter.**
