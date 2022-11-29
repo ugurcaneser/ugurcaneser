@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Uğurcan</h1>
-<h3 align="center">Mobile Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
-- 🌱 I’m currently coding **Swift, Dart and Flutter.**
+- 🌱 I’m currently coding **JavaScript, React, Dart and Flutter.**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/ugurcaneser?tab=repositories)
 
