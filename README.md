@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Uğurcan</h1>
-<h3 align="center">Game Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 - 🌱 I’m currently coding **JavaScript, React, Dart and Flutter.**
 
