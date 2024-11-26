@@ -1,5 +1,3 @@
-### 👨🏻‍💻 About
-
 🖖🏻 Hi! I'm a software developer who focuses to iOS on the native side and develops applications using technologies such as React Native and Flutter on the hybrid side. I have also developed games on HTML5 canvas using JavaScript-based technologies such as Phaser. I'm particularly interested in mobile and frontend technologies and I'm trying to increase my expertise on these.
 
 ### 📩 Contact
