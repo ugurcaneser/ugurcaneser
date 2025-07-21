@@ -1,12 +1,4 @@
-<h3 align="left">Hey 👋🏻</h3>
-
-###
-
-<p align="left">I'm Uğurcan. I develop software.</p>
-
-###
-
-<h3 align="left">About me</h3>
+<p align="left">👋🏻Hi. I'm Uğurcan. I develop software.</p>
 
 ###
 
